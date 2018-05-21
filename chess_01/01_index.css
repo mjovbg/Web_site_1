@@ -1,0 +1,17 @@
+body{
+  background-image: url('bg_05.jpg');
+  background-position: center;
+
+
+h2{
+  text-align: center;
+  margin: auto;
+  margin-left: 15;
+  color: red;
+
+}
+
+
+p{
+  color: red;
+}
